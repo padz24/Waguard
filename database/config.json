@@ -1,0 +1,31 @@
+{
+  "MODE": "public",
+  "PREFIX_ENABLED": true,
+  "PREFIXES": [
+    "."
+  ],
+  "OWNER": "6285867760406",
+  "AI": false,
+  "GROUP_WELCOME": {
+    "120363420777179286@g.us": true
+  },
+  "MSG_NOT_GROUP": "Ngapain di sini njir🗿",
+  "MSG_NOT_OWNER": "Lah.. lu siapa cok😑",
+  "MSG_PRIVATE_ONLY": "Cuma bisa di PVC bambang..🗿",
+  "MSG_NOT_ADMIN": "Minimal bot di jadiin admin lah..🙄",
+  "GROUP_ANTIKUDETA": {
+    "120363420777179286@g.us": true
+  },
+  "ANTIBUG": true,
+  "ANTIVIRTEX": true,
+  "REMINDER": {
+    "120363420777179286@g.us": true
+  },
+  "CITIES": [
+    "1402"
+  ],
+  "OWNERS": [
+    "6285867760406",
+    "204836167507982"
+  ]
+}
