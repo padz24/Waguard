@@ -91,7 +91,7 @@ async function getFolderSize(folderPath) {
 async function cleanSessionFolder() {
 	const sessionPath = path.resolve(__dirname, "./session");
 	const folderSize = await getFolderSize(sessionPath);
-	const threshold = 20 * 1024;
+	const threshold = 50 * 1024 * 1024; // 50 MB
 
 	if (folderSize >= threshold) {
 		try {

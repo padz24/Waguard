@@ -26,6 +26,10 @@
   ],
   "OWNERS": [
     "6285867760406",
-    "204836167507982"
-  ]
+    "6281390638162"
+  ],
+  "TTDL_LIMIT": 3,
+  "SPOTIFY_LIMIT": 5,
+  "YTDL_LIMIT": 3,
+  "IGSTALK_LIMIT": 5
 }

@@ -1,47 +1,65 @@
 {
+  "6285185042407@s.whatsapp.net": {
+    "name": "Anonim",
+    "lastActivity": 1758638416986,
+    "count": 108
+  },
   "6285867760406@s.whatsapp.net": {
     "name": "Padil",
-    "lastActivity": 1758360581264,
-    "count": 300
-  },
-  "120363239630252198@newsletter": {
-    "name": "Anonim",
-    "lastActivity": 1758261979585,
-    "count": 28
-  },
-  "status@broadcast": {
-    "name": "Padil",
-    "lastActivity": 1758369384614,
-    "count": 13
-  },
-  "44234052735192@lid": {
-    "name": "Padil",
-    "lastActivity": 1758122403513,
-    "count": 26
+    "lastActivity": 1758683111055,
+    "count": 383,
+    "stalk": {
+      "count": 0,
+      "resetAt": 1758720540274
+    },
+    "ttdl": {
+      "count": 0,
+      "resetAt": 1758707060523
+    },
+    "spotify": {
+      "count": 0,
+      "resetAt": 1758708788999
+    },
+    "ytdl": {
+      "count": 0,
+      "resetAt": 1758717862586
+    },
+    "igstalk": {
+      "count": 0,
+      "resetAt": 1758720331794
+    },
+    "apple": {
+      "count": 0,
+      "resetAt": 1758727308163
+    }
   },
   "120363420777179286@g.us": {
     "name": "Padil",
-    "lastActivity": 1758369397848,
-    "count": 151
+    "lastActivity": 1758552318446,
+    "count": 45,
+    "lastAdmins": [
+      "44234052735192@lid",
+      "204836167507982@lid"
+    ]
+  },
+  "120363239630252198@newsletter": {
+    "name": "Anonim",
+    "lastActivity": 1758638746051,
+    "count": 9
   },
   "120363367932028125@newsletter": {
     "name": "Anonim",
-    "lastActivity": 1758304324250,
-    "count": 4
+    "lastActivity": 1758655514106,
+    "count": 6
   },
-  "6285185042407@s.whatsapp.net": {
-    "name": "Anonim",
-    "lastActivity": 1758369357406,
-    "count": 87
+  "120363176505540772@g.us": {
+    "name": "Waguard",
+    "lastActivity": 1758506186529,
+    "count": 3
   },
-  "6281235178327@s.whatsapp.net": {
-    "name": "Anonim",
-    "lastActivity": 1758282079904,
+  "status@broadcast": {
+    "name": "Padil",
+    "lastActivity": 1758638458079,
     "count": 13
-  },
-  "120363405206489936@g.us": {
-    "name": "Anonim",
-    "lastActivity": 1758346626293,
-    "count": 7
   }
 }
